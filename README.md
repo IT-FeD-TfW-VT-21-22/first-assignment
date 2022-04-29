@@ -2,14 +2,14 @@
 In this assignment you will make a small program that will simulate a bank account and atm (a cash machine). You will get some guidance that will help you solve this assignment.
 
 **In this assignment you will have to use:**
-object
-functions
-this keyword
-if/else statement or switch
-prompt or only the console
-conditional operators
+- object
+- functions
+- this keyword
+- if/else statement or switch
+- prompt or only the console
+- conditional operators
 
-You will also have to handle errors, like wrong input. Some functions for this assignment should be properties to the account object.
+**You will also have to handle errors, like wrong input. All functions for this assignment except the atm() function should be properties to the account object.**
 
 **REQUIREMENTS**
 - A user should NOT be able to deposit och withdraw negative number!
