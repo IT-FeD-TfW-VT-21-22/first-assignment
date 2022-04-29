@@ -20,8 +20,7 @@ You will also have to handle errors, like wrong input. Some functions for this a
 **You can find screenshots in this repo so you can see how a menu can look like.**
 
 **GUIDANCE:**
-The objects should have the following properties. You can also see what data type each property should be.
-
+**The objects should have the following properties. You can also see what data type each property should be.**
 Object name: account Properties of the object:
 accountName: String,
 balance: Number (initiate this to 100 from start),
